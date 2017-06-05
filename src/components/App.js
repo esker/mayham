@@ -14,8 +14,8 @@ const App = (props) => {
               <li><Link to="/">Home</Link></li>
               <li><Link to="/about">About</Link></li>
               <li><img src="img/location/on/disk" /> </li>
-              <li><Link to="/games">About</Link></li>
-              <li><Link to="/blog">About</Link></li>
+              <li><Link to="/games">Games</Link></li>
+              <li><Link to="/blog">Blog</Link></li>
             </ul>
           </div>
         </div>
@@ -26,4 +26,4 @@ const App = (props) => {
   );
 };
 
-export default App
+export default App;
